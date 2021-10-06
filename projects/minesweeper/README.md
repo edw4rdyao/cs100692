@@ -1,3 +1,4 @@
-# simple_minesweeper
-+ **Programing assignment Mine sweeping in 2019**
-+ **For more info. in `report.pdf`**
+# minesweeper
+
++ **Programing assignment MineSweeping in 2019 Fall**
++ **For more information in `report.pdf`**
